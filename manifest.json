@@ -1,10 +1,10 @@
 {
-  "name": "Карта безопасности",
-  "short_name": "Safety Card",
+  "name": "Metalz",
+  "short_name": "Metalz",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "description": "Safety card Salym Petroleum",
+  "background_color": "#000000",
+  "description": "New metal releases",
   "icons": [
     {
       "src": "images/icon96.png",
@@ -43,5 +43,5 @@
     }
   ],
   "orientation": "portrait-primary",
-  "theme_color": "#ffffff"
+  "theme_color": "#000000"
 }
