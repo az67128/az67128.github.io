@@ -1,4 +1,7 @@
-# Metal voice
-Displays metal releases for selected month with Last FM listeners count. 
-Click on image navigate to google play.
-Hot threshold is 50 listeners or 500 play count.
+# MetalZ 🤘
+New metal releases with links to Google Music, Yandex Music and Last.FM.
+
+#### Try at
+[https://az67128.github.io](https://az67128.github.io)
+
+Add to home screen to use as PWA
