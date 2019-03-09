@@ -4,7 +4,12 @@ New metal releases with links to Google Music, Yandex Music and Last.FM.
 #### Try at
 [https://az67128.github.io](https://az67128.github.io)
 
+
 Add to home screen to use as PWA
+
+#### Source code
+[https://github.com/az67128/metalz-pwa](https://github.com/az67128/metalz-pwa)
+
 
 #
 New music in all metal genres.
